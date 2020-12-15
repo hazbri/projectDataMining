@@ -3,4 +3,4 @@
 
 
 
-![alt text](http://https://github.com/hazbri/projectDataMining/blob/main/capture.gif)
+![](//https://github.com/hazbri/projectDataMining/blob/main/capture.gif)
